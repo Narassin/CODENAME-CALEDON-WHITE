@@ -1,0 +1,57 @@
+	Main & Side Dish							Snacks & Confectionaries
+1 .Lemang 		- 	100 cal/piece			38.	Muruku			-	 50 cal/piece
+2 .Rendang(Beef)	- 	100 cal/50g			39.	Wajik			-	120 cal/40g
+3 .Rendang(Chicken)	- 	130 cal/50g			40.	Dodol			- 	 70 cal/20g
+4 .Ketupat Nasi 	- 	 10 cal/small pieces		41.	Semperit		- 	 40 cal/piece
+5 .Ketupat Palas	- 	130 cal/serving			42.	Agar-agar buah		- 	 20 cal/slice
+6 .Ketupat Sotong	- 	260 cal/130g			43.	Agar-agar kering	- 	 20 cal/piece
+7 .Kuah Kacang 		- 	130 cal/scoop			44.	Bahulu			-	 60 cal/piece
+8 .Ayam Masak Quzi	-	140 cal/piece			45.	Biskut Arab		-	 50 cal/piece
+9 .Ayam Masak Merah	- 	150 cal/piece			46.	(makmur)				
+10.Bihun Sup		- 	150 cal/bowl			47.	Biskut badam /		- 	 50 cal/piece
+11.Lontong		- 	260 cal/bowl				kacang					
+12.Buras		- 	120 cal/piece			48.	Biskut salut		- 	 50 cal/piece
+13.Burasak		- 	180 cal/piece				coklat
+14.Kelupis		- 	120 cal/50g			49.	Biskut emping		- 	 80 cal/piece
+15.Laksa Johor		- 	330 cal/bowl				jagung					
+16.Laksa Kealntan	- 	320 cal/bowl			50.	Biksut Kelapa		- 	 60 cal/piece
+17.Laksa Penang		- 	240 cal/bowl			51.	Biskut Suji 		-  	 40 cal/piece
+18.Laksa Sarawak	- 	320 cal/bowl			52.	Tapai Pulut		- 	 80 cal/pack
+19.Laksa Terengganu	- 	440 cal/bowl			53.	Kacang bersalut		-	 50 cal/tbsp
+20.Laksam		- 	300 cal/bowl				tepung			 
+21.Lemang		- 	100 cal/slice			54.	Kacang Goreng		- 	 40 cal/tbsp 
+22.Lontong		- 	260 cal/bowl			55.	Kek Berkrim		- 	240 cal/slice 
+   +Sayur lodeh								(aising)				
+23.Mi Kari		-	530 cal/bowl			56.	Kek Buah		- 	130 cal/slice
+24.Mi Rebus		-	420 cal/bowl			57.	Kek coklat		- 	150 cal/slice
+25.Mi Kilik		-	290 cal/bowl			58	Kek Lapis Sarawak	-	160 cal/slice	
+26.Nasi Dagang		- 	510 cal/plate			58.	Kek Mentega(tanpa krim)	-	160 cal/slice
+   +Ayam Kari							59.	Kerepek Pisang /	-	 40 cal/3 pieces
+   +Acar Sayur								Ubi Masin			
+27.Nasi Kerabu		-	310 cal/plate			60.	Kerepek ubi bercili	-	 50 cal/3 pieces
+   +Solok Lada							61.	Kuih bangkit kelapa	-	 40 cal/piece
+   +Telur Masin							62.	Kuih Cincin		-	 50 cal/piece
+   +Budu							63.	Kuih Kapit		-	 40 cal/2 rolls
+   +Ulam-ulaman							64.	Kuih Karas		-	 50 cal/piece
+28.Nasi Tomato		- 	420 cal/plate			65.	Kuih ros/loyang		-	 30 cal/piece
+   +Ayam Masak Merah						66.	kuih siput /		-	 30 cal/tbsp
+29.Pulut Kuning		- 	150 cal/scoop				kuih gunting			
+30.Roti Jala		- 	 70 cal/3 pieces 		67.	Kuih tat nenas/		-	 50 cal/piece
+   +Kuah Kari		-  	 80 cal/small bowl 			strawberi/ epal
+31.Rendang(Kerang)	-  	 65 cal/tbsp			68.	Puding Karamel		-	 70 cal/slice	
+32.Rendang Tok		- 	 40 cal/piece			69.	Putu Kacang / Beras	-	 70 cal/piece
+33.Sate(Chicken)	- 	 40 cal/stick				Rempeyek:
+34.Sate(Beef)		- 	 38 cal/stick			70.	-Kacang dal		-	 60 cal/piece	
+35.Serunding Daging	- 	 80 cal/tbsp			71.	-Kacang Tanah		-	 70 cal/piece	
+36.Soto ayam		- 	520 cal/bowl				
+37.Spaghetti		-	200 cal/plate				
+   +Cheese							
+   +Beef sauce	
+		
+	Drinks		
+72.	Soda based	-    130 cal/glass
+73.	Cordial based	-     40 cal/glass
+74.	Juice		-     60 cal/glass
+75.	Kopi O / Teh O	-     20 cal/glass
+76.	Carton drink	-     140 cal/mini carton
+77.	Others
